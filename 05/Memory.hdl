@@ -42,4 +42,3 @@ CHIP Memory {
               sel=address[13..14], out=out);
 }
 
-}
